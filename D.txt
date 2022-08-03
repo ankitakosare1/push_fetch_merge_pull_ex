@@ -1,1 +1,3 @@
 Statement : the sun rises in the east
+Statement : Earth is revolving around the sun
+
